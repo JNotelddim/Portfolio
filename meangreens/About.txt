@@ -1,0 +1,1 @@
+'Meangreens' is a shopping cart web applicaiton for a mock online store that I created with three other students in my first year at Camosun.
