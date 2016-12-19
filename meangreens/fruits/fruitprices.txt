@@ -1,0 +1,27 @@
+blueberries, 5.99 - pack
+watermelon 12.99 ea
+apples-spartan .65 ea
+lemons .89 ea
+bananas .30 ea
+limes .99 ea
+oranges-navel .98 ea
+apples-gala .75 ea
+grapes-green 4.00/pack
+grapes-red 4.99 pack
+strawberries 2.99/lb
+cantaloupe 3.49 ea
+mangos 1.99 ea
+grapefruit .99 ea
+pears 1.19 ea
+apples-grannysmith .73 ea
+raspberries 5.49 6oz pack
+pineapple 5.99 ea
+honeydew 6.26
+apples-fuji 0.77 ea
+apples-pinklady .69 ea
+apples-goldendelicious .58 ea
+coconut 2.99 ea
+pears-asianyellow .99 ea
+kiwi .68 ea
+
+
