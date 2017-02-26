@@ -1,0 +1,4 @@
+ChanceIt is a dice game which I worked on with a group of other students for a class at Camosun.
+We did modular development with unit tests to practise the Software Development Life Cycle.
+At the end of the term all of the groups faced off in a tournament, to see whose program
+would win the most games.
