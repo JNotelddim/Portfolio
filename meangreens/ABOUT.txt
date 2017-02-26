@@ -1,1 +1,4 @@
-'Meangreens' is a shopping cart web applicaiton for a mock online store that I created with three other students in my first year at Camosun.
+'Meangreens' is a shopping cart web applicaiton for a mock online store that I created with 
+three other students in my first year at Camosun.
+The cart page is dynamically created with Javascript and PHP based on custom user cart information
+stored in session variables and within a database.
